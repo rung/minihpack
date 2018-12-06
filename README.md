@@ -1,3 +1,3 @@
 # minihpack
-http2's hpack in go
-hpackの実装.
+- http2's hpack in go
+- hpackの実装.
